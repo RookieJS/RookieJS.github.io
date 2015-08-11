@@ -45,11 +45,11 @@
 	})
 	
 	$(".a-b").on("click",function(event){
+		alert("11");
 		if(event.target.tagName.toLowerCase() == "input")
 		{
 			return ;
 		}
-		//alert($(this).find("input")[0].outerHTML);
 		$(this).find("input")[0].click();
 	})
 	
