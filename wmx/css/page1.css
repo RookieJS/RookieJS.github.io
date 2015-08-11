@@ -1,0 +1,35 @@
+@charset "utf-8";
+body{position: absolute;height: 100%;width: 100%;background-color:#00d0e4;display:box;display:-webkit-box;display:-moz-box;display:box;-webkit-box-orient:vertical;min-width: 640px;height: 960px;opacity: 0;}
+body>*{position:relative;}
+body>*>*{position:relative;max-width:640px;margin:auto;}
+/*part top*/header{height:96px;}
+header .logo{background-image:url(../images/logo-l.png),url(../images/logo-r.png);background-repeat:no-repeat no-repeat;background-position:12px 100%,537px center;height:95px;}
+/*part bottom*/
+footer{position: relative;border-top:2px solid #fff;background-color:#fff;height:86px;z-index: 300}
+footer nav{height:86px;background-color:#baf2f8;}
+footer nav ul{display:flex;display:-webkit-flex;display:-webkit-box;flex-flow: row;-webkit-flex-flow: row;-webkit-box-orient: horizontal;}
+footer nav ul li{position:relative;flex:1;-webkit-flex:1;-webkit-box-flex:1;height:86px;cursor:pointer;text-align:center;}
+footer nav ul li.active{background-color:#fff;}
+footer nav ul li:active{background-color:#dadada;}
+footer nav ul li:before{position: relative;display:inline-block;content:"";height:31px;width:31px;top: 14px;text-align: center;background-image:url(../images/icon.png);background-repeat:no-repeat;}
+footer nav ul li:after{position: relative;display:block;color:#07737d;font-size:24px;margin-top:13px;}
+footer nav ul li.home:before{background-position: 0px 1px;}
+footer nav ul li.home:after{content:"首页"}
+footer nav ul li.rule:before{background-position: 0px -38px;}
+footer nav ul li.rule:after{content:"帮助"}
+footer nav ul li.signup:before{background-position: 0 -76px;}
+footer nav ul li.signup:after{content:"报名/登录"}
+footer nav ul li.ranking:before{background-position: 0 -112px;}
+footer nav ul li.ranking:after{content:"排行榜"}
+/*part content*/
+section{position:relative;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;z-index:10;}
+.noflex{flex: 0;-webkit-flex:0;-webkit-box-flex:0;}
+.scroll{overflow: auto;-webkit-overflow-scrolling: touch;}
+.level-two{display: none;position: absolute;right: 3px; bottom: 96px;background-color: #ffffff;border-radius: 5px; }
+.level-two:after{content: ""; width: 11px; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-top: 10px solid #fff; position: absolute; left: 50%; margin-left: -10px;}
+.level-two li{border-bottom: 1px dashed #3f9099;line-height: 50px;height: 50px;text-align: center;width: 158px;}
+.level-two li:last-child{border-bottom: none;}
+.level-two li:before{content: none;}
+.level-two li a{color: #3f9099;}
+.level-two li:active{background-color: #f7f5f5;}/**/
+

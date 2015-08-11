@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"cr",
+				"cursor"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/list.css",
+			"settings":
+			{
+				"buffer_size": 5485,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "list.html",
+			"settings":
+			{
+				"buffer_size": 6510,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "upphoto.html",
+			"settings":
+			{
+				"buffer_size": 3733,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/upphoto.css",
+			"settings":
+			{
+				"buffer_size": 4102,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 561.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/js/Desktop/project/wmx/css/page.css",
+		"/C/Users/js/Desktop/project/wmx/help.html",
+		"/C/Users/js/Desktop/project/wmx/text.html",
+		"/C/Users/js/Desktop/project/wmx/css/help.css",
+		"/C/Users/js/Desktop/project/huqiuM/css/witness.css",
+		"/C/Users/js/Desktop/project/wmx/css/reset.css",
+		"/C/Users/js/Desktop/project/wmx/js/common.js",
+		"/C/Users/js/Desktop/project/wmx/index.html",
+		"/C/Users/js/Desktop/project/wmx/join.html",
+		"/C/Users/js/Desktop/project/wmx/css/join.css",
+		"/C/Users/js/Desktop/project/wmx/praise.html",
+		"/C/Users/js/Desktop/project/wmx/css/share.css",
+		"/C/Users/js/Desktop/project/wmx/share.html",
+		"/C/Users/js/Desktop/project/wmx/list.html",
+		"/C/Users/js/Desktop/project/wmx/css/list.css",
+		"/C/Users/js/Desktop/project/wmx/css/index.css",
+		"/C/Users/js/Desktop/project/home.html",
+		"/C/Users/js/Desktop/project/home.js",
+		"/C/Users/js/Desktop/project/reset.css",
+		"/C/Users/js/Desktop/project/wmx/home.html",
+		"/C/Users/js/Desktop/project/wmx/js/scale.js",
+		"/C/Users/js/Desktop/project/wmx/js/jquery.xici-event.js",
+		"/C/Users/js/Desktop/project/wmx/upphoto.html",
+		"/C/Users/js/Desktop/project/wmx/css/upphoto.css",
+		"/C/Users/js/Desktop/project/wmx/js/upphoto.js",
+		"/C/Users/js/Desktop/project/wmx/js/upload.js",
+		"/C/Users/js/Desktop/project/wmx/template02.html",
+		"/C/Users/js/Desktop/project/wmx/css/ui.css",
+		"/C/Users/js/Desktop/project/wmx/js/iscroll.js",
+		"/C/Users/js/Desktop/3_.htm",
+		"/C/Users/js/Desktop/singup.html",
+		"/C/Users/js/Desktop/120_.htm",
+		"/C/Users/js/Desktop/signup.js",
+		"/C/Users/js/Desktop/signup.css",
+		"/C/Users/js/Desktop/index.blade.php",
+		"/C/Users/js/Desktop/project/wmx/sftp-config.json",
+		"/C/Users/js/Desktop/project/wmx/data/temp.data",
+		"/C/Users/js/Desktop/project/index.html",
+		"/C/Users/js/Desktop/project/index.js",
+		"/C/Users/js/Desktop/project/wmx/data/temp1.json",
+		"/C/Users/js/Desktop/project/wmx/data/temp2.json",
+		"/C/Users/js/Desktop/project/wmx/data/temp3.json",
+		"/C/Users/js/Desktop/project/wmx/js/json.test.html",
+		"/C/Users/js/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/Users/js/Desktop/wmx/js/upphoto.js",
+		"/C/Users/js/Desktop/wmx/list.html",
+		"/C/Users/js/Desktop/wmx/js/upload.js",
+		"/C/Users/js/Desktop/wmx/upphoto.html",
+		"/C/Users/js/Desktop/wmx/css/list.css",
+		"/D/download/iscroll-master/build/iscroll.js",
+		"/D/download/Swiper-master/demos/32-scroll-container.html",
+		"/D/download/iscroll-master/demos/bounce-easing/index.html",
+		"/C/Users/js/Desktop/wmx/css/share.css",
+		"/C/Users/js/Desktop/wmx/js/iscroll.js",
+		"/C/Users/js/Desktop/wmx/css/upphoto.css",
+		"/C/Users/js/Desktop/aaa",
+		"/C/Users/js/Desktop/z",
+		"/C/Users/js/Documents/Tencent Files/2077358518/FileRecv/生成随机数/test.html",
+		"/D/basic.html",
+		"/C/Users/js/Desktop/index.js",
+		"/C/Users/js/Desktop/a",
+		"/D/own/preloader/sftp-config.json",
+		"/D/workplace/xici-fuli/public/mockup/5star.html",
+		"/D/workplace/xici-fuli/assets/pc/js/suning/20150626/index.js",
+		"/D/workplace/xici-fuli/assets/js/script.js",
+		"/D/workplace/xici-fuli/assets/js/ZeroClipboard.Core.js",
+		"/D/workplace/xici-fuli/mockup/suning420.html",
+		"/D/workplace/xici-fuli/mockup/suning_half.html",
+		"/D/workplace/xici-fuli/mockup/suning_payok.html",
+		"/D/workplace/xici-fuli/mockup/suning_payerror.html",
+		"/D/workplace/xici-fuli/mockup/suning_login.html",
+		"/D/workplace/xici-fuli/mockup/cemni.html",
+		"/D/workplace/xici-fuli/assets/css/event-base.css",
+		"/D/workplace/xici-fuli/mockup/mobile/5star/20150620/share.html",
+		"/D/workplace/xici-topic/MilanM/run.html",
+		"/D/workplace/xici-fuli/sftp-config.json",
+		"/D/workplace/xici-topic/sftp-config.json",
+		"/D/workplace/xici/sftp-config.json",
+		"/C/Users/js/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/text",
+		"/C/Users/js/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/xici-fuli",
+		"/C/Users/js/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/xici-topic",
+		"/C/Users/js/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/10.253.1.109",
+		"/C/Users/js/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/js/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".o-list li .tip-bottom",
+			".user-list .list li",
+			".user-list .list li .pic",
+			".pic-box .p-r .b-share, .pic-box .p-r .b-praise",
+			">\n",
+			"4px",
+			"footer",
+			";\n",
+			",$)",
+			"event",
+			".select-panel .select-show input",
+			".select-panel .select-show",
+			";\n",
+			"tip-top",
+			"transforms3d",
+			"translate3d",
+			".loading-min img",
+			"load",
+			"tagName",
+			".user-list>div:nth-child(1)",
+			"center",
+			"58",
+			"%;",
+			"uploadService"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/list.css",
+					"settings":
+					{
+						"buffer_size": 5485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4419,
+								4419
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3794.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "list.html",
+					"settings":
+					{
+						"buffer_size": 6510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2404,
+								2404
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1482.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "upphoto.html",
+					"settings":
+					{
+						"buffer_size": 3733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3318,
+								3318
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1710.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/upphoto.css",
+					"settings":
+					{
+						"buffer_size": 4102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 281.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true
+}
