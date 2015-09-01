@@ -1,9 +1,0 @@
-@charset "utf-8";
-.pic-panel{position: relative; z-index: 99; margin-top: -96px;}
-.pic-panel img{width: 100%;}
-header{position: relative; z-index: 100;}
-.b-g{position: absolute;width: 100%;text-align: center;max-width: inherit;bottom: 5%;}
-.b-g button{background-color:#ffc332;height:88px;width:424px;font-size:36px;color:#fff;}
-.b-g button:active{background-color:#f8bd30;}
-.b-g a{clear:both;margin-top:10px;padding:10px;display:block;font- size:28px;color:#fff;}
-.b-g a:active{color:#9af5fe;}/**/
